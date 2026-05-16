@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+---Testando repositório
+=======
+Testando repositó.-.rio
+>>>>>>> mvp1-lgk
+
+Hello World
+
+\o/
+
+|o|
